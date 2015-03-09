@@ -314,6 +314,7 @@ hr {
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
     background: #eee4da;
+    background-image: url(http://ia.media-imdb.com/images/M/MV5BMTUzMjA0MzQxMF5BMl5BanBnXkFtZTcwODA3ODY3Mg@@._V1_SY317_CR4,0,214,317_AL_.jpg);
     box-shadow: 0 0 30px 12px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
